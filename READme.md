@@ -119,9 +119,7 @@
    c. **Optimize for Time and Space:**
       - Consider both time and space complexities when designing algorithms.
 
-   d. **Modularize Code
-
-:**
+   d. **Modularize Code:**
       - Break down complex problems into smaller, modular functions for better readability and maintainability.
 
    e. **Test and Debug:**
