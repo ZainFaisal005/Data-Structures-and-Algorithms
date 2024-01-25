@@ -1,4 +1,4 @@
-Arrays in DSA:
+# Arrays in DSA:
 
 
 1. Definition:
